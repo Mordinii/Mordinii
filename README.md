@@ -1,4 +1,4 @@
-### Prazer, Sou o Allan Samuel 👋🏾
+### Prazer, sou o Allan Samuel 👋🏾
 
 - 🔎 Atualmente procurando vagas de estágio na área de programação
 - 📚 Estudando Angular e TypeScript
