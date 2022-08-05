@@ -1,16 +1,21 @@
-### Bora coda?
+### Prazer, Sou o Allan Samuel 👋🏾
 
-- 🔎 Atualmente procurando estágio na área de programação
+- 🔎 Atualmente procurando vagas de estágio na área de programação
 - 📚 Estudando Angular e TypeScript
+- 💻 Manutenção de Hardware/Software
 
  ##
 
 <div align="center">
   <a href="https://github.com/Mordinii">
-  <img height="140em"src="https://github-readme-stats.vercel.app/api?username=Mordinii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mordinii&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mordinii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mordinii&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+ ##
+ 
+  ### ✔ Tecnologias que utilizo  
+ 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
