@@ -3,6 +3,7 @@
 - 🔎 Atualmente procurando vagas de estágio na área de programação
 - 📚 Estudando Angular e TypeScript
 - 💻 Manutenção de Hardware/Software
+- 🕊 não vivo mais eu, mas cristo vive em mim.
 
  ##
 
