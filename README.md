@@ -1,7 +1,7 @@
 ### Prazer, sou o Allan Samuel 👋🏾
 
 - 🔎 Atualmente procurando vagas de estágio na área de programação
-- 📚 Estudando Angular e TypeScript
+- 📚 Estudando Java e SQL  
 - 💻 Manutenção de Hardware/Software
 - 🕊 não vivo mais eu, mas cristo vive em mim.
 
