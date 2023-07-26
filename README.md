@@ -3,7 +3,7 @@
 - 🔎 Atualmente procurando vagas de estágio na área de programação
 - 📚 Estudando Java e SQL  
 - 💻 Manutenção de Hardware/Software
-- 🕊 não vivo mais eu, mas cristo vive em mim.
+- 🕊 Não vivo mais eu, mas cristo vive em mim.
 
  ##
 
